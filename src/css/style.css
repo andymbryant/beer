@@ -1,0 +1,15 @@
+.lager-view {
+    background-color: grey;
+}
+
+.ale-view {
+    background-color: lightgrey;
+}
+
+.beer-type {
+    border: solid 2px red;
+}
+
+.beer-token {
+    border: solid 2px green;
+}
